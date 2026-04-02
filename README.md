@@ -107,7 +107,7 @@ information_source     ──┘
 
 ## 9. Screenshots / Demo
 
-[![Finance Trends Dashboard]([Finance_Trends_2020-2025.png)](https://github.com/sushant-tomar456/Finance-Trends/blob/main/Finance%20Trends%202020-2025.png](https://github.com/sushant-tomar456/Finance-Trends/blob/main/Finance%20Trends%202020-2025.png))
+![Finance Trends Dashboard](https://raw.githubusercontent.com/sushant-tomar456/Finance-Trends/main/Finance%20Trends%202020-2025.png)
 
 ---
 
