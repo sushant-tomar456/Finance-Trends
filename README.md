@@ -4,7 +4,7 @@ A dynamic, end-to-end data analytics project exploring investor behaviour and fi
 
 ---
 
-## 2. Short Description / Purpose
+## 2. Purpose
 
 This project analyzes a 12,000-row investment survey dataset to uncover patterns in how people invest, what returns they expect, and what financial goals drive their decisions. The dashboard is designed for finance enthusiasts, data analytics learners, and recruiters who want to see a complete, real-world analytics workflow.
 
@@ -107,7 +107,7 @@ information_source     ──┘
 
 ## 9. Screenshots / Demo
 
-![Finance Trends Dashboard](Finance_Trends_2020-2025.png)
+[![Finance Trends Dashboard](Finance_Trends_2020-2025.png)](https://github.com/sushant-tomar456/Finance-Trends/blob/main/Finance%20Trends%202020-2025.png)
 
 ---
 
